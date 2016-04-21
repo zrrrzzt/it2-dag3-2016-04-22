@@ -1,5 +1,10 @@
 # it2-dag3-2016-04-22
-Oppgave og etterhvert løsning på dagens oppgaver
+
+I dag skal vi løse 2 oppgaver.
+
+Alle hjelpemidler er lov og vi setter av et par timer til løsning av oppgaven.
+
+Passende musikk til jobben [Lane 8 Spring 2016 mixtape](https://soundcloud.com/lane8music/lane-8-spring-2016-mixtape)
 
 ## Oppgave 1 - Fylker, folketall og fanteri
 
@@ -21,7 +26,7 @@ Alle svarene kan du skrive ut i konsollen ```console.log()```
   - Skriv ut navn på alle fylker som benytter nynorsk
   - Regn ut det totale antall mennesker som bor i fylker hvor de benytter bokmål
 
-## Oppgave 2
+## Oppgave 2 - fylk meg hit og fylk meg dit
 
 Ta utgangspunkt i denne [oversikten](https://no.wikipedia.org/wiki/Norges_fylker#Liste) over fylker i Norge.
 
