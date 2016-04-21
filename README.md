@@ -5,6 +5,28 @@ Oppgave og etterhvert løsning på dagens oppgaver
 
 Ta utgangspunkt i denne [oversikten](https://no.wikipedia.org/wiki/Norges_fylker#Liste) over fylker i Norge.
 
+Alle svarene kan du skrive ut i konsollen ```console.log()```
 
+- Lag en liste som innholder alle fylkesnavnene
+  - Skriv ut alle fylkesnavnene
+  - Sorter listen alfabetisk
+  - Skriv ut alle fylkesnavnene fra den sorterte listen
+  - Reverser listen
+  - Skriv ut alle fylkesnavnene fra den reverserte listen
+- Lag en liste som inneholder objekter med navn, folketall og målform
+  - Skriv ut alle oppføringene på formen '<fylkesnavn> har <folketall> innbyggere og målformen er <målform>'
+  - Sorter listen alfabetisk etter fylkesnavn
+  - Skriv ut alle oppføringene på formen '<fylkesnavn> har <folketall> innbyggere og målformen er <målform>'
+  - Skriv ut navn på alle fylker som har mer enn 300 000 innbyggere
+  - Skriv ut navn på alle fylker som benytter nynorsk
+  - Regn ut det totale antall mennesker som bor i fylker hvor de benytter bokmål
 
 ## Oppgave 2
+
+Ta utgangspunkt i denne [oversikten](https://no.wikipedia.org/wiki/Norges_fylker#Liste) over fylker i Norge.
+
+- Lag en nettside hvor man ser bilder av alle fylkesvåpnene.
+- Når man trykker på fylkesvåpenet skal man komme til wikipediaartikkelen om fylket.
+- Ha en nedtrekksmeny med alle fylkesnavnene.
+  - Når man velger et fylke skal det vises hvem som er fylkesordfører.
+
