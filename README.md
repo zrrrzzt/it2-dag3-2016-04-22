@@ -2,9 +2,9 @@
 
 I dag skal vi løse 2 oppgaver.
 
-Alle hjelpemidler er lov og vi setter av et par timer til løsning av oppgaven.
+Alle hjelpemidler er lov og vi setter av et par timer til løsning av oppgavene.
 
-Passende musikk til jobben [Lane 8 Spring 2016 mixtape](https://soundcloud.com/lane8music/lane-8-spring-2016-mixtape)
+Passende musikk til jobben: [Lane 8 Spring 2016 mixtape](https://soundcloud.com/lane8music/lane-8-spring-2016-mixtape)
 
 ## Oppgave 1 - Fylker, folketall og fanteri
 
