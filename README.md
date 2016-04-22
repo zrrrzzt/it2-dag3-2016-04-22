@@ -4,7 +4,12 @@ I dag skal vi løse 2 oppgaver.
 
 Alle hjelpemidler er lov og vi setter av et par timer til løsning av oppgavene.
 
-Passende musikk til jobben: [Lane 8 Spring 2016 mixtape](https://soundcloud.com/lane8music/lane-8-spring-2016-mixtape)
+Det er laget en [hjelpeside](hjelp.md) til oppgavene, men prøv å løse uten bruk av denne først.
+
+Når du er ferdig med oppgaven: hjelp medelever som ikke er det (om de ønsker hjelp da).
+Hjelp betyr ikke at du løser oppgaven for de, men at du forklarer som best du kan hvordan de løser den selv.
+
+Passende musikk for dagen: [Lane 8 Spring 2016 mixtape](https://soundcloud.com/lane8music/lane-8-spring-2016-mixtape)
 
 ## Oppgave 1 - Fylker, folketall og fanteri
 
