@@ -31,6 +31,9 @@ Alle svarene kan du skrive ut i konsollen ```console.log()```
 Ta utgangspunkt i denne [oversikten](https://no.wikipedia.org/wiki/Norges_fylker#Liste) over fylker i Norge.
 
 - Lag en nettside hvor man ser bilder av alle fylkesvåpnene.
+  - Bildene skal ha samme størrelse
+  - Bildene skal ha alternativ tekst som forteller hva som skjer når du trykker på bildet.
 - Når man trykker på fylkesvåpenet skal man komme til wikipediaartikkelen om fylket.
+  - Linken skal åpnes i nytt vindu
 - Ha en nedtrekksmeny med alle fylkesnavnene.
   - Når man velger et fylke skal det vises hvem som er fylkesordfører.
