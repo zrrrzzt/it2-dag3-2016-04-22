@@ -42,6 +42,14 @@ for (var i = 0; i < listeAvObjekterLengde; i++) {
 
 ```
 
+Slå sammen flere verdier i console.log
+
+```
+for (var i = 0; i < listeAvObjekterLengde; i++) {
+  var item = listeAvObjekter[i]
+  console.log('item a er ' + item.a + ' og b er ' + item.b + 'og jaggu er c ' + item.c)
+}
+```
 
 ## Oppgave 2
 
