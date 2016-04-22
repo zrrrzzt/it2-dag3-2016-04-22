@@ -30,6 +30,19 @@ function sorterFylkesnavnAlfabetisk(a, b) {
 }
 ```
 
+Hente ut verdier fra objekter i en liste
+
+```
+for (var i = 0; i < listeAvObjekterLengde; i++) {
+  var item = listeAvObjekter[i]
+  console.log(item.a)
+  console.log(item.b)
+  console.log(item.c)
+}
+
+```
+
+
 ## Oppgave 2
 
 Alternativ tekst på bilder ```alt="Her skriver du alternativ tekst"```
