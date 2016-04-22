@@ -22,6 +22,14 @@ Liste av objekter
 
 Les mer om object [properties](http://www.w3schools.com/js/js_properties.asp)
 
+Funksjon for å sortere f.eks liste med objekter på fylkesnavn (forutsetter at property er fylkesnavn, hvis ikke endrer du det i funksjonen)
+
+```
+function sorterFylkesnavnAlfabetisk(a, b) {
+  return a.fylkesnavn > b.fylkesnavn
+}
+```
+
 ## Oppgave 2
 
 Alternativ tekst på bilder ```alt="Her skriver du alternativ tekst"```
