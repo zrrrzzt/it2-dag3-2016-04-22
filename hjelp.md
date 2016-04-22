@@ -26,7 +26,11 @@ Funksjon for å sortere f.eks liste med objekter på fylkesnavn (forutsetter at 
 
 ```
 function sorterFylkesnavnAlfabetisk(a, b) {
-  return a.fylkesnavn > b.fylkesnavn
+  if ( a.fylkesnavn < b.fylkesnavn )
+    return -1
+  if ( a.fylkesnavn > b.fylkesnavn )
+    return 1
+  return 0
 }
 ```
 
