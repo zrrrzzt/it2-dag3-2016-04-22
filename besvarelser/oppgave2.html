@@ -6,12 +6,37 @@
     <link rel="stylesheet" href="oppgave2.css">
 </head>
 <body>
+
+<h1>Fine fylker i Norge</h1>
+
+<!-- onchange trigger funksjonen showOrdforer -->
+<div>
+    <select name="fylkesvalg" id="fylkesvalg" onchange="showOrdforer()">
+        <option value="&nbsp;">Velg fylke for å se navnet på ordføreren</option>
+        <option value="Ole Haabeth">Østfold</option>
+        <option value="Anette Solli">Akershus</option>
+        <option value="Marianne Borgen">Oslo</option>
+        <option value="Dag Rønning">Hedmark</option>
+        <option value="Gro Lundby">Oppland</option>
+        <option value="Morten Eriksrød">Buskerud</option>
+        <option value="Rune Hogsnes">Vestfold</option>
+        <option value="Sven Tore Løkslid">Telemark</option>
+        <option value="Tellef Inge Mørland">Aust-Agder</option>
+        <option value="Terje Damman">Vest-Agder</option>
+        <option value="Janne Johnsen">Rogaland</option>
+        <option value="Tom-Christer Nilsen">Hordaland</option>
+        <option value="Sogn og Fjordane">Sogn og Fjordane</option>
+        <option value="Jon Aasen">Møre og Romsdal</option>
+        <option value="Tore O. Sandvik">Sør-Trøndelag</option>
+        <option value="Gunnar Viken">Nord-Trøndelag</option>
+        <option value="Sonja Alice Steen">Nordland</option>
+        <option value="Knut Werner Hansen">Troms</option>
+        <option value="Runar Sjåstad">Finnmark</option>
+    </select>
+    <div id="ordforerDiv">&nbsp;</div>
+</div>
+
 <table>
-    <thead>
-    <tr>
-        <th colspan="5"><h1>Fine fylker i Norge</h1></th>
-    </tr>
-    </thead>
     <tbody>
     <tr>
         <td>
@@ -119,5 +144,16 @@
     </tr>
     </tbody>
 </table>
+
+<script>
+    // Blir trigget av onchange i selectmenyen
+    function showOrdforer () {
+        var div = document.getElementById('ordforerDiv') // div
+        var select = document.getElementById('fylkesvalg') // select
+
+        // Setter innholdet i div til verdien (value) av valgt option
+        div.innerHTML = select.options[select.selectedIndex].value
+    }
+</script>
 </body>
 </html>

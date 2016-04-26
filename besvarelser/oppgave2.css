@@ -2,3 +2,8 @@ img {
     width: 100px;
     height: 123px;
 }
+
+#ordforerDiv {
+    padding: 10px;
+    font-size: larger;
+}
